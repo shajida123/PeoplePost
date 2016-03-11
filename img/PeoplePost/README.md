@@ -1,2 +1,0 @@
-# PeoplePost
-PeoplePost Blogging Website
